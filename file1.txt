@@ -1,1 +1,2 @@
 line1 added in local main
+line2 added in local main - feature1 closed
