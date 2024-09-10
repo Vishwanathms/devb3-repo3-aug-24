@@ -2,3 +2,5 @@ line1 added in local main
 line2 added in local main - feature1 closed
 
 line3 added in local main -- working on feature2
+
+line5 added in local main -- bug fix
